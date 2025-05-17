@@ -11,3 +11,5 @@ Built with:
 * TSC (Tableau Server Client)
 
 Bonus: Click a song and it plays on Spotify. Because data should scream too. 🎧🦇
+
+https://public.tableau.com/app/profile/nikolasdutra/viz/AvengedSevenfold-TourStatsNeverDie/A7xAnalysis?publish=yes
